@@ -67,7 +67,7 @@ By executing these cleaning steps, I ensured that the dataset was **optimized fo
 - In general donor distribution, the **highest donor percentages** come from **Business Development (9.4%)**, **Engineering (9.3%)**, and **Human Resources (9.3%)**.
 
 ### **Donation Frequency Insights**
-- **High-value donors tend to donate yearly (32.35%)**, monthly (24.51%), and weekly (22.55%).
+- **High-value donors tend to donate yearly (32.35%)**, monthly (24.51%), and weekly (22.55%) respectively.
 - **Regular donors donate most frequently once (27.06%)** or yearly (25.17%), followed by monthly (23.05%).
 - Overall, donations are **most frequent once (26.4%)**, yearly (25.9%), weekly (24.5%), and monthly (23.2%).
 
@@ -84,6 +84,14 @@ By executing these cleaning steps, I ensured that the dataset was **optimized fo
 - **Encourage Monthly Giving:** High-value donors already show a strong preference for yearly and monthly donations, so campaigns should promote the convenience and impact of monthly giving.
 - **Use Recurring Donation Incentives:** Provide incentives like exclusive reports or event invitations for donors who opt for recurring donations.
 - **Personalized Engagement:** Implement automated follow-ups and appreciation messages to encourage repeat donations from once-a-year donors.
+
+### **Convert One-Time Donors into Recurring Donors**  
+
+- **Follow-up Campaigns:** Implement an automated follow-up system that sends personalized thank-you emails and impact stories to one-time donors, encouraging them to donate again.  
+- **Easy Recurring Options:** Simplify the donation process by offering a seamless "opt-in for monthly giving" feature at the donation checkout.  
+- **Exclusive Membership Benefits:** Create a donor club with benefits (e.g., early access to reports, donor appreciation gifts) for those who transition to recurring giving.  
+- **Impact-driven Messaging:** Show tangible outcomes of recurring donations, such as how a monthly gift can sustain a child's education over time.  
+- **Re-engagement Initiatives:** Identify lapsed one-time donors and retarget them with compelling campaigns, testimonials, or limited-time matching fund offers.  
 
 ### **Increase the Value of Donations**
 - **Upsell Regular Donors to High-Value Donors:** Since regular donors contribute significantly more in volume, targeted messaging and engagement strategies should encourage them to increase their donation amounts.
