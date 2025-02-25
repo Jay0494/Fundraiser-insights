@@ -7,6 +7,8 @@
 - [Recommendations & Data-Guided Strategic Planning](#recommendations-&-data-guided-strategic-planning)
 - [Next Steps](#next-steps)
 
+---
+
 ## **Introduction**
 ### **Business Problem**
 Within the Fundraising team at Education for All, our key objectives are:
@@ -16,11 +18,14 @@ Within the Fundraising team at Education for All, our key objectives are:
 
 In two weeks, the team will be holding a **fundraising strategy meeting** for the upcoming year. The goal is to present insights from the donation data to inform and optimize our fundraising strategy, ultimately increasing overall donations.
 
+---
+
 ## **Thought Process**
 
 To effectively analyze the donor data and derive meaningful insights, I first retrieved the relevant data stored as an **SQL file**. Using SQL queries, I performed an initial **SELECT function** to extract the tables containing donor and donation information. Since the dataset contained multiple tables, I merged them into a **comprehensive master table** for a holistic view of donor behavior and contribution trends.
-
 After consolidating the data, I **exported it to Power BI** for advanced processing and visualization.
+
+---
 
 ## **Data Cleaning**
 
@@ -30,17 +35,26 @@ The dataset initially contained **approximately 11,000 data points**, which incl
 - **Eliminated irrelevant tables and columns** to streamline the dataset and improve processing speed.
 - **Standardized tables** to maintain consistency in formatting and data structure.
 - **Created comprehensive table headers** for clarity and ease of interpretation.
-
 By executing these cleaning steps, I ensured that the dataset was **optimized for visualization and analysis**, enabling more precise and actionable insights to support our fundraising strategy.
 
-## **Insights**
+---
 
+## **Insights**
+![page 2 now](https://github.com/user-attachments/assets/de90a68c-af90-4d86-9c57-38349626ed28)
+
+---
 ### **Donor Composition and Contribution**
 - The total number of donors is **1,000**, with **102 high-value donors** and **898 regular donors**.
 - Total donations received amount to **$249,085**, with **high-value donors contributing $48,302** and **regular donors contributing $200,783**.
 - The **top 10% donation threshold** is **$450**, indicating a benchmark for high-value donors.
 - The **average donation amount** is **$249.09**.
 - Donor segmentation shows that **10.2%** of donors are classified as high-value, while **89.8%** are regular donors.
+
+---
+
+![Page 1](https://github.com/user-attachments/assets/585e96cc-620e-4825-be41-4f8904b6d3e4)
+
+---
 
 ### **Demographic Distribution**
 - Gender distribution is nearly balanced, with **50.8% female** and **49.2% male** donors.
@@ -56,6 +70,8 @@ By executing these cleaning steps, I ensured that the dataset was **optimized fo
 - **High-value donors tend to donate yearly (32.35%)**, monthly (24.51%), and weekly (22.55%).
 - **Regular donors donate most frequently once (27.06%)** or yearly (25.17%), followed by monthly (23.05%).
 - Overall, donations are **most frequent once (26.4%)**, yearly (25.9%), weekly (24.5%), and monthly (23.2%).
+
+---
 
 ## **Recommendations & Data-Guided Strategic Planning**
 
@@ -73,6 +89,8 @@ By executing these cleaning steps, I ensured that the dataset was **optimized fo
 - **Upsell Regular Donors to High-Value Donors:** Since regular donors contribute significantly more in volume, targeted messaging and engagement strategies should encourage them to increase their donation amounts.
 - **Highlight the Impact of Larger Donations:** Use storytelling and data to show the direct impact of higher donations, particularly in successful campaigns.
 - **Exclusive Recognition for High-Value Donors:** Offer tailored experiences like networking events or recognition on digital platforms to retain and increase high-value contributions.
+
+---
 
 ## **Next Steps**
 - **Develop targeted marketing campaigns** focused on increasing donor acquisition from underrepresented professions and retaining high-value donors.
